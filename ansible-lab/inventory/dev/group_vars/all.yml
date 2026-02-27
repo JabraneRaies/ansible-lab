@@ -1,0 +1,3 @@
+app_name: devtrack
+app_path: /opt/devtrack
+docker_compose_src: ../../files/docker-compose.yml
